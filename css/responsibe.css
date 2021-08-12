@@ -1,6 +1,6 @@
 @media (max-width: 959px) {
   * {
-    outline: auto;
+    /* outline: auto; */
   }
 
   .product-item {
@@ -195,14 +195,14 @@
 
   /* 制作物 */
 
-  .product-items ul{
+  .product-items ul {
     width: 350px;
     margin: 0 auto;
   }
   .product-items li {
     width: 100%;
   }
-  
+
   .product-item {
     width: 300px;
     margin: 0 auto;
@@ -212,7 +212,7 @@
     width: 100%;
   }
 
-  .product-item p{
+  .product-item p {
     font-size: 22px;
   }
 
